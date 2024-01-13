@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 150px;
+    background-color: #bfbfbf;
+    padding: 64px 38px;
+}
+header nav{
+    width: 600px;
+}
+header nav li{
+    display: inline-flex;
+    margin-right: 20px;
+}
+header nav li a{
+    color: #000000;
+    font-size: 18px;
+}
+body{
+    background-color: orange;
+    
+}
+.slider{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+
+}
+.text1{
+    padding-top: 18px;
+    height: 50px;
+    padding-left: 30px;
+    font-size: 13px;
+    font-style:italic;
+    background-color: #FFFFFF;
+}
+h3{
+    padding: 50px 30px;
+}
+.suratebi img{
+    width: 100%;
+    height: 250px;
+    border: 1px solid orange;
+    opacity: 0.5
+    
+   
+}
+.statiebi article{
+    display: inline-flex;
+    justify-content: center;
+    width: 33.33%;
+}
+.samisurati{
+    width: 33.1%;
+    height: 270px;
+    display: inline-flex;
+    overflow: hidden;
+    
+}
+.shinaarsi{
+    padding: 34px;
+    text-align: justify;
+    
+}
+footer{
+    clear: both;
+    width: 100%;
+    padding: 30px 64px;
+    font-size: 12px;
+    background-color: white;
+}
+    
